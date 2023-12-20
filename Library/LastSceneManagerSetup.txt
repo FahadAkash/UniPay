@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Payment_GatwaySystem.unity
+- path: Assets/Packages/com.fahadakash.unipay/Samples/Scenes/Payment_GatwaySystem.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
