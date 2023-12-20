@@ -1,0 +1,31 @@
+{
+    "name": "com.fahadakash.unipay",
+    "version": "0.0.1",
+    "displayName": "Unipay",
+    "description": "This package is a wrapper for implementing Payment Gateways in Unity",
+    "unity": "2021.3",
+    "unityRelease": "10f1",
+    "documentationUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.achievementsystem/manual/",
+    "changelogUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.achievementsystem/changelog/CHANGELOG.html",
+    "licensesUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.achievementsystem/license/LICENSE.html",
+    "scopedRegistries": [
+        {
+            "name": "Fahad Akash",
+            "url": "https://package.openupm.com",
+            "scopes": [
+                "com.fahadakash"
+            ]
+        }
+    ],
+
+    "keywords": [
+      "Achievement",
+      "Achievement Manager",
+      "Stats"
+    ],
+    "author": {
+        "name": "Studio 23",
+        "email": "contact@studio-23.xyz",
+        "url": "https://studio-23.xyz"
+    }
+}
