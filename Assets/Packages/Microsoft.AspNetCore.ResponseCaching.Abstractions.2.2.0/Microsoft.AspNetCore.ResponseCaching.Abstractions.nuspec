@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNetCore.ResponseCaching.Abstractions</id>
+    <version>2.2.0</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://raw.githubusercontent.com/aspnet/AspNetCore/2.0.0/LICENSE.txt</licenseUrl>
+    <projectUrl>https://asp.net/</projectUrl>
+    <iconUrl>https://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
+    <description>ASP.NET Core response caching middleware abstractions and feature interface definitions.
+
+This package was built from the source code at https://github.com/aspnet/ResponseCaching/tree/9f49398f28d7c1e0dc0305f8080351c413b0f297</description>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>aspnetcore cache caching</tags>
+    <serviceable>true</serviceable>
+    <repository type="git" url="https://github.com/aspnet/ResponseCaching" commit="9f49398f28d7c1e0dc0305f8080351c413b0f297" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Extensions.Primitives" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

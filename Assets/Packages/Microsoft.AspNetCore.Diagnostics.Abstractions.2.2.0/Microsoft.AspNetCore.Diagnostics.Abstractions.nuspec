@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNetCore.Diagnostics.Abstractions</id>
+    <version>2.2.0</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://raw.githubusercontent.com/aspnet/AspNetCore/2.0.0/LICENSE.txt</licenseUrl>
+    <projectUrl>https://asp.net/</projectUrl>
+    <iconUrl>https://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
+    <description>ASP.NET Core diagnostics middleware abstractions and feature interface definitions.
+
+This package was built from the source code at https://github.com/aspnet/Diagnostics/tree/c802d5ef5fba1ba8dfbcb8c3741af2ba15e9d1aa</description>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>aspnetcore diagnostics</tags>
+    <serviceable>true</serviceable>
+    <repository type="git" url="https://github.com/aspnet/Diagnostics" commit="c802d5ef5fba1ba8dfbcb8c3741af2ba15e9d1aa" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+</package>
